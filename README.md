@@ -26,7 +26,7 @@ Le mieux étant de commencer par un exemple… Nous allons créer une monnaie no
 
 J'ai mis l'ensemble du projet sur un dépôt Github:
 
-[https://github.com/kletellier/foocoin](https://github.com/kletellier/foocoin)
+[https://github.com/kletellier/morozcoin](https://github.com/kletellier/morozcoin)
 
 Il suffit de cloner le dépôt ou bien de télécharger le dernier zip du master, le source de ce projet est basé sur une version 0.8.6 de Bitcoin.
 
@@ -34,7 +34,7 @@ L'idéal serait de placer votre projet dans le répertoire c:\testcoin
 
 ## 3.2 Renommage
 
-*   On va renommer l'ensemble des occurrences de foocoin vers testcoin, pour ceci il y a fart.exe dans le répertoire contrib, il va falloir le déplacer dans c:\testcoin en le copiant
+*   On va renommer l'ensemble des occurrences de morozcoin vers testcoin, pour ceci il y a fart.exe dans le répertoire contrib, il va falloir le déplacer dans c:\testcoin en le copiant
 
 *   On ouvre une invite de commande cmd (« démarrer → executer → cmd »)
 
@@ -42,10 +42,10 @@ Puis :
 
 > c:  
 > cd c:\testcoin  
-> fart -r * foocoin testcoin  
-> fart -r * Foocoin Testcoin
+> fart -r * morozcoin testcoin  
+> fart -r * MorozCoin Testcoin
 
-On renomme le fichier _foocoin-qt.pro_ en _testcoin-qt.pro_
+On renomme le fichier _morozcoin-qt.pro_ en _testcoin-qt.pro_
 
 Ensuite on ouvre le fichier _src/qt/bitcoinunits.cpp_
 

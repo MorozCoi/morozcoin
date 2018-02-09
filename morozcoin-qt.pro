@@ -1,5 +1,5 @@
 TEMPLATE = app
-TARGET = morozcoin-qt
+TARGET = foocoin-qt
 macx:TARGET = "MorozCoin-Qt"
 VERSION = 0.8.6
 INCLUDEPATH += src src/json src/qt
@@ -307,7 +307,7 @@ SOURCES += src/qt/test/test_main.cpp \
 HEADERS += src/qt/test/uritests.h
 DEPENDPATH += src/qt/test
 QT += testlib
-TARGET = morozcoin-qt_test
+TARGET = foocoin-qt_test
 DEFINES += BITCOIN_QT_TEST
   macx: CONFIG -= app_bundle
 }

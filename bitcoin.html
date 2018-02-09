@@ -17,13 +17,13 @@
 <p>Le mieux &eacute;tant de commencer par un exemple&hellip; Nous allons cr&eacute;er une monnaie nomm&eacute; Testcoin avec comme abr&eacute;viation TSC.</p>
 <h2>3.1 Copie du template</h2>
 <p>J'ai mis l'ensemble du projet sur un d&eacute;p&ocirc;t Github:</p>
-<p><a href="https://github.com/kletellier/foocoin">https://github.com/kletellier/foocoin</a></p>
+<p><a href="https://github.com/kletellier/morozcoin">https://github.com/kletellier/morozcoin</a></p>
 <p>Il suffit de cloner le d&eacute;p&ocirc;t ou bien de t&eacute;l&eacute;charger le dernier zip du master, le source de ce projet est bas&eacute; sur une version 0.8.6 de Bitcoin.</p>
 <p>L'id&eacute;al serait de placer votre projet dans le r&eacute;pertoire c:\testcoin</p>
 <h2>3.2 Renommage</h2>
 <ul>
 <li>
-<p>On va renommer l'ensemble des occurrences de foocoin vers testcoin, pour ceci il y a fart.exe dans le r&eacute;pertoire contrib, il va falloir le d&eacute;placer dans c:\testcoin en le copiant</p>
+<p>On va renommer l'ensemble des occurrences de morozcoin vers testcoin, pour ceci il y a fart.exe dans le r&eacute;pertoire contrib, il va falloir le d&eacute;placer dans c:\testcoin en le copiant</p>
 </li>
 <li>
 <p>On ouvre une invite de commande cmd (&laquo; d&eacute;marrer &rarr; executer &rarr; cmd &raquo;)</p>
@@ -31,9 +31,9 @@
 </ul>
 <p>Puis :</p>
 <blockquote>
-<p>c:<br /> cd c:\testcoin<br /> fart -r * foocoin testcoin<br /> fart -r * Foocoin Testcoin</p>
+<p>c:<br /> cd c:\testcoin<br /> fart -r * morozcoin testcoin<br /> fart -r * MorozCoin Testcoin</p>
 </blockquote>
-<p>On renomme le fichier <em>foocoin-qt.pro</em> en <em>testcoin-qt.pro</em></p>
+<p>On renomme le fichier <em>morozcoin-qt.pro</em> en <em>testcoin-qt.pro</em></p>
 <p>Ensuite on ouvre le fichier <em>src/qt/bitcoinunits.cpp</em></p>
 <p>&agrave; la ligne 37-39 on modifier :</p>
 <pre><code> case BTC: return QString("BTC");

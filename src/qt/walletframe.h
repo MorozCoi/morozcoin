@@ -1,8 +1,8 @@
 /*
- * Qt4 foocoin GUI.
+ * Qt4 morozcoin GUI.
  *
  * W.J. van der Laan 2011-2012
- * The Foocoin developers 2011-2013
+ * The MorozCoin developers 2011-2013
  */
 #ifndef WALLETFRAME_H
 #define WALLETFRAME_H

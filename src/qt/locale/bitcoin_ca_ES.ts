@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Foocoin</source>
-        <translation>Sobre Foocoin</translation>
+        <source>About MorozCoin</source>
+        <translation>Sobre MorozCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Foocoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Foocoin&lt;/b&gt; versió</translation>
+        <source>&lt;b&gt;MorozCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;MorozCoin&lt;/b&gt; versió</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Foocoin developers</source>
+        <source>The MorozCoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -62,8 +62,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Foocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces Foocoin per a rebre pagaments. Pot interesar-te proveïr diferents adreces a cadascun dels enviadors així pots identificar qui et va pagant.</translation>
+        <source>These are your MorozCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces MorozCoin per a rebre pagaments. Pot interesar-te proveïr diferents adreces a cadascun dels enviadors així pots identificar qui et va pagant.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -77,8 +77,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Foocoin address</source>
-        <translation>Signa el missatge per provar que ets propietari de l&apos;adreça Foocoin</translation>
+        <source>Sign a message to prove you own a MorozCoin address</source>
+        <translation>Signa el missatge per provar que ets propietari de l&apos;adreça MorozCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -102,8 +102,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Foocoin address</source>
-        <translation>Verificar un missatge per asegurar-se que ha estat signat amb una adreça Foocoin específica</translation>
+        <source>Verify a message to ensure it was signed with a specified MorozCoin address</source>
+        <translation>Verificar un missatge per asegurar-se que ha estat signat amb una adreça MorozCoin específica</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -117,8 +117,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Foocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Aquestes són la seva adreça de Foocoin per enviar els pagaments. Sempre revisi la quantitat i l&apos;adreça del destinatari abans transferència de monedes.</translation>
+        <source>These are your MorozCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Aquestes són la seva adreça de MorozCoin per enviar els pagaments. Sempre revisi la quantitat i l&apos;adreça del destinatari abans transferència de monedes.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -270,8 +270,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Foocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your foocoins from being stolen by malware infecting your computer.</source>
-        <translation>Foocoin es tancarà ara per acabar el procés d&apos;encriptació. Recorda que encriptar el teu moneder no protegeix completament els teus bitcoins de ser robades per programari maliciós instal·lat al teu ordinador.</translation>
+        <source>MorozCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your morozcoins from being stolen by malware infecting your computer.</source>
+        <translation>MorozCoin es tancarà ara per acabar el procés d&apos;encriptació. Recorda que encriptar el teu moneder no protegeix completament els teus bitcoins de ser robades per programari maliciós instal·lat al teu ordinador.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -369,8 +369,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Foocoin</source>
-        <translation>Mostra informació sobre Foocoin</translation>
+        <source>Show information about MorozCoin</source>
+        <translation>Mostra informació sobre MorozCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -414,13 +414,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Foocoin address</source>
-        <translation>Enviar monedes a una adreça Foocoin</translation>
+        <source>Send coins to a MorozCoin address</source>
+        <translation>Enviar monedes a una adreça MorozCoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Foocoin</source>
-        <translation>Modificar les opcions de configuració per foocoin</translation>
+        <source>Modify configuration options for MorozCoin</source>
+        <translation>Modificar les opcions de configuració per morozcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -450,8 +450,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Foocoin</source>
-        <translation>Foocoin</translation>
+        <source>MorozCoin</source>
+        <translation>MorozCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Foocoin</source>
-        <translation>&amp;Sobre Foocoin</translation>
+        <source>&amp;About MorozCoin</source>
+        <translation>&amp;Sobre MorozCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -495,13 +495,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Foocoin addresses to prove you own them</source>
-        <translation>Signa el missatges amb la seva adreça de Foocoin per provar que les poseeixes</translation>
+        <source>Sign messages with your MorozCoin addresses to prove you own them</source>
+        <translation>Signa el missatges amb la seva adreça de MorozCoin per provar que les poseeixes</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Foocoin addresses</source>
-        <translation>Verificar els missatges per assegurar-te que han estat signades amb una adreça Foocoin específica.</translation>
+        <source>Verify messages to ensure they were signed with specified MorozCoin addresses</source>
+        <translation>Verificar els missatges per assegurar-te que han estat signades amb una adreça MorozCoin específica.</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -531,13 +531,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Foocoin client</source>
-        <translation>Client Foocoin</translation>
+        <source>MorozCoin client</source>
+        <translation>Client MorozCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Foocoin network</source>
-        <translation><numerusform>%n connexió activa a la xarxa Foocoin</numerusform><numerusform>%n connexions actives a la xarxa Foocoin</numerusform></translation>
+        <source>%n active connection(s) to MorozCoin network</source>
+        <translation><numerusform>%n connexió activa a la xarxa MorozCoin</numerusform><numerusform>%n connexions actives a la xarxa MorozCoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -647,8 +647,8 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Foocoin address or malformed URI parameters.</source>
-        <translation>la URI no pot ser processada! Això es pot ser causat per una adreça Foocoin invalida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid MorozCoin address or malformed URI parameters.</source>
+        <translation>la URI no pot ser processada! Això es pot ser causat per una adreça MorozCoin invalida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -662,8 +662,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Foocoin can no longer continue safely and will quit.</source>
-        <translation>Ha tingut lloc un error fatal. Foocoin no pot continuar executant-se de manera segura i es tancará.</translation>
+        <source>A fatal error occurred. MorozCoin can no longer continue safely and will quit.</source>
+        <translation>Ha tingut lloc un error fatal. MorozCoin no pot continuar executant-se de manera segura i es tancará.</translation>
     </message>
 </context>
 <context>
@@ -728,8 +728,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Foocoin address.</source>
-        <translation>L&apos;adreça introduida &quot;%1&quot; no és una adreça Foocoin valida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid MorozCoin address.</source>
+        <translation>L&apos;adreça introduida &quot;%1&quot; no és una adreça MorozCoin valida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -747,8 +747,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Foocoin-Qt</source>
-        <translation>Foocoin-Qt</translation>
+        <source>MorozCoin-Qt</source>
+        <translation>MorozCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -810,13 +810,13 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Foocoin after logging in to the system.</source>
-        <translation>Iniciar automàticament Foocoin després de l&apos;inici de sessió del sistema.</translation>
+        <source>Automatically start MorozCoin after logging in to the system.</source>
+        <translation>Iniciar automàticament MorozCoin després de l&apos;inici de sessió del sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Foocoin on system login</source>
-        <translation>&amp;Iniciar Foocoin al inici de sessió del sistema.</translation>
+        <source>&amp;Start MorozCoin on system login</source>
+        <translation>&amp;Iniciar MorozCoin al inici de sessió del sistema.</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -835,8 +835,8 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Foocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir el port del client de Foocoin al router de forma automàtica. Això només funciona quan el teu router implementa UPnP i l&apos;opció està activada.</translation>
+        <source>Automatically open the MorozCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir el port del client de MorozCoin al router de forma automàtica. Això només funciona quan el teu router implementa UPnP i l&apos;opció està activada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -845,8 +845,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Foocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connectar a la xarxa Foocoin a través de un SOCKS proxy (per exemple connectant a través de Tor).</translation>
+        <source>Connect to the MorozCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connectar a la xarxa MorozCoin a través de un SOCKS proxy (per exemple connectant a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -920,8 +920,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Foocoin.</source>
-        <translation>Aquí pots definir el llenguatge de l&apos;aplicatiu. Aquesta configuració tindrà efecte un cop es reiniciï Foocoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting MorozCoin.</source>
+        <translation>Aquí pots definir el llenguatge de l&apos;aplicatiu. Aquesta configuració tindrà efecte un cop es reiniciï MorozCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -935,8 +935,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Foocoin addresses in the transaction list or not.</source>
-        <translation>Mostrar adreces Foocoin als llistats de transaccions o no.</translation>
+        <source>Whether to show MorozCoin addresses in the transaction list or not.</source>
+        <translation>Mostrar adreces MorozCoin als llistats de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -987,8 +987,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Foocoin.</source>
-        <translation>Aquesta configuració tindrà efecte un cop es reiniciï Foocoin.</translation>
+        <source>This setting will take effect after restarting MorozCoin.</source>
+        <translation>Aquesta configuració tindrà efecte un cop es reiniciï MorozCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1006,8 +1006,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Foocoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa Foocoin un cop s&apos;ha establert connexió, però aquest proces no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the MorozCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa MorozCoin un cop s&apos;ha establert connexió, però aquest proces no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1060,8 +1060,8 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start foocoin: click-to-pay handler</source>
-        <translation>No es pot iniciar foocoin: manejador clicla-per-pagar</translation>
+        <source>Cannot start morozcoin: click-to-pay handler</source>
+        <translation>No es pot iniciar morozcoin: manejador clicla-per-pagar</translation>
     </message>
 </context>
 <context>
@@ -1210,8 +1210,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Foocoin-Qt help message to get a list with possible Foocoin command-line options.</source>
-        <translation>Mostrar el missatge d&apos;ajuda de Foocoin-Qt per a obtenir un llistat de possibles ordres per a la línia d&apos;ordres de Foocoin.</translation>
+        <source>Show the MorozCoin-Qt help message to get a list with possible MorozCoin command-line options.</source>
+        <translation>Mostrar el missatge d&apos;ajuda de MorozCoin-Qt per a obtenir un llistat de possibles ordres per a la línia d&apos;ordres de MorozCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1230,13 +1230,13 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Foocoin - Debug window</source>
-        <translation>Foocoin -Finestra de debug</translation>
+        <source>MorozCoin - Debug window</source>
+        <translation>MorozCoin -Finestra de debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Foocoin Core</source>
-        <translation>Nucli de Foocoin</translation>
+        <source>MorozCoin Core</source>
+        <translation>Nucli de MorozCoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1245,8 +1245,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Foocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obrir el dietari de debug de Foocoin del directori de dades actual. Aixó pot trigar uns quants segons per a dietàris grossos.</translation>
+        <source>Open the MorozCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obrir el dietari de debug de MorozCoin del directori de dades actual. Aixó pot trigar uns quants segons per a dietàris grossos.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1255,8 +1255,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Foocoin RPC console.</source>
-        <translation>Benvingut a la consola RPC de Foocoin</translation>
+        <source>Welcome to the MorozCoin RPC console.</source>
+        <translation>Benvingut a la consola RPC de MorozCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1439,8 +1439,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Foocoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introdueixi una adreça de Foocoin (per exemple 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a MorozCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Introdueixi una adreça de MorozCoin (per exemple 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1504,8 +1504,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Foocoin address</source>
-        <translation>Signa el missatge per provar que ets propietari d&apos;aquesta adreça Foocoin</translation>
+        <source>Sign the message to prove you own this MorozCoin address</source>
+        <translation>Signa el missatge per provar que ets propietari d&apos;aquesta adreça MorozCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1540,8 +1540,8 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Foocoin address</source>
-        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça Foocoin específica</translation>
+        <source>Verify the message to ensure it was signed with the specified MorozCoin address</source>
+        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça MorozCoin específica</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1556,8 +1556,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Foocoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introdueixi una adreça de Foocoin (per exemple 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a MorozCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Introdueixi una adreça de MorozCoin (per exemple 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1566,8 +1566,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Foocoin signature</source>
-        <translation>Introduïr una clau Foocoin</translation>
+        <source>Enter MorozCoin signature</source>
+        <translation>Introduïr una clau MorozCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1640,7 +1640,7 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Foocoin developers</source>
+        <source>The MorozCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2178,8 +2178,8 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Foocoin version</source>
-        <translation>Versió de Foocoin</translation>
+        <source>MorozCoin version</source>
+        <translation>Versió de MorozCoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2188,7 +2188,7 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or foocoind</source>
+        <source>Send command to -server or morozcoind</source>
         <translation>Enviar comanda a -servidor o bitcoind</translation>
     </message>
     <message>
@@ -2208,12 +2208,12 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: foocoin.conf)</source>
-        <translation>Especificat arxiu de configuració (per defecte: foocoin.conf)</translation>
+        <source>Specify configuration file (default: morozcoin.conf)</source>
+        <translation>Especificat arxiu de configuració (per defecte: morozcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: foocoind.pid)</source>
+        <source>Specify pid file (default: morozcoind.pid)</source>
         <translation>Especificar arxiu pid (per defecte: bitcoind.pid)</translation>
     </message>
     <message>
@@ -2291,15 +2291,15 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=foocoinrpc
+rpcuser=morozcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Foocoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;MorozCoin Alert&quot; admin@foo.com
 </source>
-        <translation>%s has de establir una contrasenya RPC a l&apos;arxiu de configuració:\n%s\nEs recomana que useu la següent constrasenya aleatòria:\nrpcuser=foocoinrpc\nrpcpassword=%s\n(no necesiteu recordar aquesta contrsenya)\nEl nom d&apos;usuari i contrasenya NO HAN de ser els mateixos.\nSi l&apos;arxiu no existeix, crea&apos;l amb els permisos d&apos;arxiu de només lectura per al propietari.\nTambé es recomana establir la notificació d&apos;alertes i així seràs notificat de les incidències;\nper exemple: alertnotify=echo %%s | mail -s &quot;Foocoin Alert&quot; admin@foo.com</translation>
+        <translation>%s has de establir una contrasenya RPC a l&apos;arxiu de configuració:\n%s\nEs recomana que useu la següent constrasenya aleatòria:\nrpcuser=morozcoinrpc\nrpcpassword=%s\n(no necesiteu recordar aquesta contrsenya)\nEl nom d&apos;usuari i contrasenya NO HAN de ser els mateixos.\nSi l&apos;arxiu no existeix, crea&apos;l amb els permisos d&apos;arxiu de només lectura per al propietari.\nTambé es recomana establir la notificació d&apos;alertes i així seràs notificat de les incidències;\nper exemple: alertnotify=echo %%s | mail -s &quot;MorozCoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2313,8 +2313,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Foocoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Foocoin is probably already running.</source>
-        <translation>No es pot bloquejar el directori de dades %s. Probablement Foocoin ja estigui en execució.</translation>
+        <source>Cannot obtain a lock on data directory %s. MorozCoin is probably already running.</source>
+        <translation>No es pot bloquejar el directori de dades %s. Probablement MorozCoin ja estigui en execució.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2358,8 +2358,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Foocoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Foocoin will not work properly.</source>
-        <translation>Advertència: Si us plau comprovi que la data i hora del seu computador siguin correctes! Si el seu rellotge està mal configurat, Foocoin no funcionará de manera apropiada.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong MorozCoin will not work properly.</source>
+        <translation>Advertència: Si us plau comprovi que la data i hora del seu computador siguin correctes! Si el seu rellotge està mal configurat, MorozCoin no funcionará de manera apropiada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2608,8 +2608,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Foocoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Foocoin Wiki for SSL setup instructions)</source>
-        <translation>Opcions SSL: (veure la Wiki de Foocoin per a instruccions de configuració SSL)</translation>
+        <source>SSL options: (see the MorozCoin Wiki for SSL setup instructions)</source>
+        <translation>Opcions SSL: (veure la Wiki de MorozCoin per a instruccions de configuració SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2798,13 +2798,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Foocoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Foocoin</source>
-        <translation>Error carregant wallet.dat: El moneder requereix una versió de Foocoin més moderna</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of MorozCoin</source>
+        <translation>Error carregant wallet.dat: El moneder requereix una versió de MorozCoin més moderna</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Foocoin to complete</source>
-        <translation>El moneder necesita ser re-escrit: re-inicia Foocoin per a completar la tasca</translation>
+        <source>Wallet needed to be rewritten: restart MorozCoin to complete</source>
+        <translation>El moneder necesita ser re-escrit: re-inicia MorozCoin per a completar la tasca</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2863,8 +2863,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Foocoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Foocoin is probably already running.</source>
-        <translation>Impossible d&apos;unir %s en aquest ordinador. Probablement Foocoin ja estigui en execució.</translation>
+        <source>Unable to bind to %s on this computer. MorozCoin is probably already running.</source>
+        <translation>Impossible d&apos;unir %s en aquest ordinador. Probablement MorozCoin ja estigui en execució.</translation>
     </message>
     <message>
         <location line="+64"/>
